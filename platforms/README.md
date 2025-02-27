@@ -29,7 +29,7 @@ Configured DNS records (SRV, A records)
 
 By using this (https://github.com/spantaleev/matrix-docker-ansible-deploy/), it's kinda easy to start a Matrix container.
 The server is now running at matrix.thebct.net
-Username: chino
+Username: chinothebest
 Password: Pleas3l3tmebey0urSubcommitee
 
 I’m still working on the TLS configuration, trying to get the certs right for both the base domain and the Matrix server.
