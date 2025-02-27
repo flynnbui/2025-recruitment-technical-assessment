@@ -11,7 +11,7 @@ This task intentionally sounds challenging and contains language not frequently 
 
 > ANSWER BOX
 ```
-I recently deployed a Matrix homeserver on AWS using a guide I found(https://hik999.medium.com/cloud-deployment-of-matrix-homeserver-f08ba5e8109e),  but let’s just say it wasn’t exactly plug-and-play. The guide was a bit outdated and left out some key details on configuring the server, I had to dive into the docs myself and figure things out..
+I recently deployed a Matrix homeserver on AWS using a guide I found(https://hik999.medium.com/cloud-deployment-of-matrix-homeserver-f08ba5e8109e),  but let’s just say it wasn’t exactly plug-and-play (it took me 5 hours just to get the server up ...). The guide was a bit outdated and left out some key details on configuring the server, I had to dive into the docs myself and figure things out..
 Luckily, I’m taking COMP6448, aka security for cloud. That means I’ve got an AWS account with pretty much unlimited instances and RDS as long as I follow the golden rule of security class: "Don’t be a dick." Lmao.
 
 Setting up the AWS infrastructure was relatively straightforward with the guide:
