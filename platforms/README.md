@@ -28,7 +28,7 @@ Launched an RDS PostgreSQL instance and EC2 server
 Configured DNS records (SRV, A records)
 
 By using this (https://github.com/spantaleev/matrix-docker-ansible-deploy/), it's kinda easy to start a Matrix container.
-The server is now running at matrix.thebct.net
+The server is now running at thebct.net
 Username: chinothebest
 Password: Pleas3l3tmebey0urSubcommitee
 
